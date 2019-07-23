@@ -1,4 +1,4 @@
-s/********************************************************** 
+/********************************************************** 
 PROGRAMMERS:   Moussa Sawadogo		 
 DATE CREATED: May 2019
 DESCRIPTION: This do-file labels values and variables

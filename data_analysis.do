@@ -19,13 +19,3 @@ cd "C:\Users\WB502361\WBG\Julia Vaillant - Great Lakes SGBV IE DRC"
 
 use "$dta\20190623_NET_Baseline_data_indicators_lb.dta"
 
-
-** Hi Alev
-
-** first create new variables:
-gen a=.n
-replace a=1 if b=1
-
-
-** test
-

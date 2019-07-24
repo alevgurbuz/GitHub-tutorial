@@ -19,7 +19,7 @@ cd "C:\Users\WB502361\WBG\Julia Vaillant - Great Lakes SGBV IE DRC"
 
 use "$dta\20190623_NET_Baseline_data_indicators_lb.dta"
 
-
+**this part is very important!
 
 ** first, define labels
 la define mar_status 1 "Married"
@@ -31,3 +31,5 @@ label define gender 1 "Woman / Girl"
 label define gender 2 "Man / Boy", add
 label define gender 98 "Don't know", add
 label define gender 99 "Don't want to answer", add
+
+

@@ -17,7 +17,8 @@ cd "C:\Users\WB502361\WBG\Julia Vaillant - Great Lakes SGBV IE DRC"
   global Tables = "$baseline/report/tables and graphs/tables"
   global Graphs = "$baseline/report/tables and graphs/graphs"
 
-use "$dta\20190623_NET_Baseline_data_indicators_lb.dta"
+*use "$dta\20190623_NET_Baseline_data_indicators_lb.dta"
+use "$dta\20190724_NET_Baseline_data_indicators_lb.dta"
 
 
 

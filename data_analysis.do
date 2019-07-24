@@ -22,11 +22,14 @@ use "$dta\20190623_NET_Baseline_data_indicators_lb.dta"
 
 
 ** first, define labels
+
+*Marital Status
 la define mar_status 1 "Married"
 la define mar_status 2 "Divorced or separated", add
 la define mar_status 3 "Widowed", add
 la define mar_status 4 "Single", add
-	
+
+*Gender	
 label define gender 1 "Woman / Girl"
 label define gender 2 "Man / Boy", add
 label define gender 98 "Don't know", add

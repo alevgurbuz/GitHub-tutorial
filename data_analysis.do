@@ -33,3 +33,12 @@ label define gender 98 "Don't know", add
 label define gender 99 "Don't want to answer", add
 
 
+
+
+
+
+
+
+**data analysis starts here:
+
+
